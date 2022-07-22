@@ -7,7 +7,6 @@ import androidx.recyclerview.widget.LinearLayoutManager
 import by.kirich1409.viewbindingdelegate.viewBinding
 import com.example.peopleinfapp.R
 import com.example.peopleinfapp.base.BaseFragment
-import com.example.peopleinfapp.data.remote.models.PeopleModel
 import com.example.peopleinfapp.databinding.FragmentPeopleBinding
 import com.example.peopleinfapp.ui.adapters.PeopleAdapter
 import dagger.hilt.android.AndroidEntryPoint

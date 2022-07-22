@@ -91,7 +91,7 @@ dependencies {
     implementation("com.squareup.okhttp3:logging-interceptor")
 
     // Hilt
-    implementation("com.google.dagger:hilt-android:2.40")
+    implementation("com.google.dagger:hilt-android:2.41")
     kapt("com.google.dagger:hilt-android-compiler:2.40")
 
     // Lifecycle
