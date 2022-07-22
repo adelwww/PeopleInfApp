@@ -1,7 +1,7 @@
 package com.example.peopleinfapp.data.repositories.base
 
 import android.util.Log
-import com.example.peopleinfapp.Either
+import com.example.peopleinfapp.utils.Either
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.flow.catch
 import kotlinx.coroutines.flow.flow

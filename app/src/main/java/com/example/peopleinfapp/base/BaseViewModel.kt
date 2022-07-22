@@ -2,7 +2,7 @@ package com.example.peopleinfapp.base
 
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope
-import com.example.peopleinfapp.Either
+import com.example.peopleinfapp.utils.Either
 import com.example.peopleinfapp.ui.state.UIState
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.flow.Flow

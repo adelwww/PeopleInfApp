@@ -7,7 +7,7 @@ import androidx.fragment.app.viewModels
 import androidx.lifecycle.lifecycleScope
 import androidx.navigation.fragment.navArgs
 import by.kirich1409.viewbindingdelegate.viewBinding
-import com.example.peopleinfapp.Either
+import com.example.peopleinfapp.utils.Either
 import com.example.peopleinfapp.R
 import com.example.peopleinfapp.base.BaseFragment
 import com.example.peopleinfapp.databinding.FragmentPeopleDetailBinding
