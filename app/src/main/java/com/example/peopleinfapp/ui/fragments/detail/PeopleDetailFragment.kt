@@ -37,7 +37,6 @@ class PeopleDetailFragment : BaseFragment<PeopleDetailViewModel, FragmentPeopleD
                     is Either.Right -> {
                         binding.nameTv.text = it.value.name
                         binding.ageTv.text = it.value.age
-                        binding.eyeColorTv.text = it.value.eye_color
                         binding.genderTv.text = it.value.eye_color
                         binding.hairColorTv.text = it.value.hair_color
                     }
